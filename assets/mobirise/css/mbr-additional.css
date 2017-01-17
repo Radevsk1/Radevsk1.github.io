@@ -46,6 +46,24 @@
 #menu-s .mbr-navbar__hamburger {
   color: #000000;
 }
+#menu-u .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-u .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-u .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-u .mbr-navbar__hamburger {
+  color: #000000;
+}
 
 
 #slider-9 .btn {
@@ -70,21 +88,48 @@
 #menu-s .mbr-navbar__hamburger {
   color: #000000;
 }
-#menu-u .mbr-brand__name {
+#menu-12 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
+#menu-12.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#menu-u .mbr-navbar__hamburger {
+#menu-12 .mbr-navbar__hamburger {
   color: #000000;
 }
-#menu-u .mbr-brand__name {
+#menu-13 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
+#menu-13.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#menu-u .mbr-navbar__hamburger {
+#menu-13 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-14 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-14.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-14 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-16 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-16 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-15 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-15.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-15 .mbr-navbar__hamburger {
   color: #000000;
 }
