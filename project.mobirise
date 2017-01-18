@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home slide.html",
+    "currentPage": "angliski.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -54,7 +54,7 @@
             "showArrow": false
           },
           "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "<br>Английски език – официален в над 50 държави и говорим на всички континенти. Където и да сте по света, ще намерите някой, който владее английски език и ще може да Ви помогне или просто да си поговорите. Ние Ви предлагаме възможност да научите английски език.&nbsp;<br>",
+          "text": "<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Angliiski osnoven Kurs.html\" data-toolbar=\"-mbrBtnMove\">Основен курс</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Angliiski naprednali.html\" data-toolbar=\"-mbrBtnMove\">Напреднали</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Angliiiski biznes.html\" data-toolbar=\"-mbrBtnMove\">Бизнес</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Angliiski frazi.html\" data-toolbar=\"-mbrBtnMove\">Фрази</a>"
         },
         {
@@ -63,11 +63,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#b8312f"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#000000"
+              "color": "#7c706b"
             }
           },
           "_tags": [
