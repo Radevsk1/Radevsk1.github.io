@@ -468,7 +468,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/2000x1333-1.jpg",
                 "contentAlign": "left",
                 "overlay": true,
@@ -505,8 +505,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Ispanski.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Испански</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/italy-2-pisa-d43918220-2000x1125.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/italy-2-pisa-d43918220-2000x1125-1.jpg",
                 "contentAlign": "left",
                 "overlay": true,
                 "overlayOpacity": "0.3",
@@ -515,7 +515,7 @@
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "showButtons": true,
-                "buttons": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Italianski.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Италиански</a>      "
+                "buttons": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Italianski.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Италиански</a>      "
               },
               {
                 "active": false,
