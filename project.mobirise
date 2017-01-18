@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "newhome.html",
+    "currentPage": "Home slide.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -82,7 +82,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -137,7 +137,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -241,7 +241,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -326,7 +326,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -392,6 +392,53 @@
         "order": 2
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1h",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#000000",
+            "transparent": true,
+            "sticky": false,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_tags": [
@@ -490,53 +537,6 @@
           },
           "_anchor": "slider-9",
           "articleLayout": false
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-s",
-          "_params": {
-            "color": "#2c2c2c",
-            "hamburgerColor": "#000000",
-            "transparent": true,
-            "sticky": false,
-            "collapsed": false,
-            "logo": false,
-            "showBrand": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -570,7 +570,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -660,7 +660,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -714,7 +714,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -768,7 +768,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -822,7 +822,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -951,7 +951,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -1005,7 +1005,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -1096,7 +1096,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -1187,7 +1187,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -1280,7 +1280,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
@@ -1371,7 +1371,7 @@
             "sticky": false,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
