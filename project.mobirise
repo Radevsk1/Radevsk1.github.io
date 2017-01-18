@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home slide.html",
+    "currentPage": "newhome.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -222,11 +222,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#b8312f"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#000000"
+              "color": "#7c706b"
             }
           },
           "_tags": [
@@ -290,9 +290,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Home slide.html\" data-toolbar=\"-mbrBtnMove\">Продукти</a> "
+          "title": "RELAXA.bg",
+          "text": "Вашият езиков самоучител&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Home slide.html\" data-toolbar=\"-mbrBtnMove\">Продукти</a>  "
         }
       ]
     },
@@ -468,14 +468,14 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/2000x1333-1.jpg",
                 "contentAlign": "left",
                 "overlay": true,
                 "overlayOpacity": "0.2",
                 "showTitle": false,
                 "title": "Английски език",
-                "showText": true,
+                "showText": false,
                 "text": "",
                 "showButtons": true,
                 "buttons": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"angliski.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Английски език<br></a>      "
@@ -484,6 +484,7 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/germany-2-2000x1125.jpg",
                 "contentAlign": "left",
+                "overlay": false,
                 "showTitle": false,
                 "title": "Немски Език",
                 "showText": false,
@@ -497,15 +498,15 @@
                 "contentAlign": "left",
                 "overlay": true,
                 "overlayOpacity": "0.5",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Испански Език",
-                "showText": true,
+                "showText": false,
                 "text": "&nbsp;<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Ispanski.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Испански</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/italy-2-pisa-d43918220-2000x1125-1.jpg",
                 "contentAlign": "left",
                 "overlay": true,
