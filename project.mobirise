@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home slide.html",
+    "currentPage": "newhome.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,8 @@
     "uniqCompNum": 59,
     "versionPublish": "3.10.7",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "angliski.html": {
